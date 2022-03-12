@@ -1,0 +1,74 @@
+﻿html,
+body {
+    background: white !important;
+    font-family: "Montserrat", sans-serif;
+    color: black;
+    margin: 0;
+    height: 100%;
+    box-sizing:border-box;
+}
+input:focus,
+textarea:focus,
+select:focus,
+button:focus {
+    outline: none;
+    box-shadow: none !important;
+}
+
+input:active,
+select:active,
+textarea:active,
+button:active {
+    outline: none !important;
+}
+.logout {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 15px;
+    font-size: 12px;
+}
+.formcon {
+    width: 100%;
+    display: flex;
+    height: 100vh;
+    grid-gap:10px;
+    flex-direction: column;
+    place-content: center;
+    place-items: center;
+}
+.formcon2 {
+    width: 100%;
+    display: flex;
+    height: 100vh;
+    grid-gap: 10px;
+    flex-direction: column;
+    place-items: center;
+}
+.mb-3 {
+    margin-bottom: 0px !important;
+}
+.item, .loginbtn, .forgot, .clicking {
+    width: 35%;
+}
+.forgot {
+    text-align:end;
+    margin:10px 0px;
+    font-size:14px;
+}
+.sign{
+    height:12%
+}
+.form-label, .account, .clicking {
+    color: #707070;
+    font-size: 14px;
+}
+.clicking{
+    text-align:center;
+}
+.contact_Grid{
+    margin:15px 0px;
+}
+.mycontact {
+    margin-top: 25px;
+}

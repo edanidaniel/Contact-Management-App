@@ -1,0 +1,6 @@
+D:\DANIEL\ContactManagerApp\ContactManagerApp\ContactManagerApp\bin\ContactManagerApp.dll.config
+D:\DANIEL\ContactManagerApp\ContactManagerApp\ContactManagerApp\bin\ContactManagerApp.dll
+D:\DANIEL\ContactManagerApp\ContactManagerApp\ContactManagerApp\bin\ContactManagerApp.pdb
+D:\DANIEL\ContactManagerApp\ContactManagerApp\ContactManagerApp\obj\Debug\ContactManagerApp.csprojResolveAssemblyReference.cache
+D:\DANIEL\ContactManagerApp\ContactManagerApp\ContactManagerApp\obj\Debug\ContactManagerApp.dll
+D:\DANIEL\ContactManagerApp\ContactManagerApp\ContactManagerApp\obj\Debug\ContactManagerApp.pdb
